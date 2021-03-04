@@ -1,2 +1,4 @@
 # InfiniteBot
-API for InfiniteBot
+API part of InfiniteBot
+
+

@@ -1,0 +1,2 @@
+# InfiniteBot
+API for InfiniteBot

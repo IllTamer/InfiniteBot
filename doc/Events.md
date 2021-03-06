@@ -26,7 +26,7 @@
 > &emsp;&ensp;&emsp;该方法可发送 String List\<String\> Message 三种消息 更多方法见API部分
 
 ---
-####调用Mirai中的事件
+#### 调用Mirai中的事件 ####
 &emsp;1.使用 getEvent() 方法 获取经包装前的Mirai事件
 > 所有InfiniteBot\event下的事件都包含了该方法 下为范例  
 >```
